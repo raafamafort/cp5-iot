@@ -55,6 +55,13 @@ Aqui está um exemplo simples de como usar o sistema:
 1. Aproxime um cartão NFC autorizado ao leitor.
 2. A luz se acenderá se o cartão for válido.
 
+## Equipe
+
+Claudio Roberto - rm95340
+David Augusto - rm93429
+Lucas Amadeu - rm94539
+Rafal Mafort - rm95699
+Vitor Mantovani - rm92875
 
 Este é um projeto de Disruptive Architecture que aborda um problema real usando IoT.
 
